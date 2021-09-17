@@ -54,7 +54,6 @@ class _HomePageState extends State<HomePage> {
            trailing: mostrar ? Icon(Icons.arrow_forward_ios_rounded, color: Colors.deepOrange): SizedBox(),
 
          ),
-          
          ),
         ),
     );

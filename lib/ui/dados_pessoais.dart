@@ -58,7 +58,6 @@ class _PersonalDataState extends State<PersonalData> {
             buildEmail("E-MAIL", email),
             buildTel("TELEFONE", tel),
             buildTel("CELULAR", cel)
-
           ]
         ),
       ),
